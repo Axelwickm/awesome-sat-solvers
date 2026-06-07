@@ -195,7 +195,7 @@ Many complex problems can be solved by compiling the problem into a SAT encoding
 - PySAT (Python) - wrapper library  [website](https://pysathq.github.io/)
 - Sat4j (Java) - modelling and wrapper for Java -  [website](http://www.sat4j.org/)
 - ORTools (Python) -  general purpose modelling library for optimisation problems but very good as CSP - [website](https://developers.google.com/optimization/cp/cp_solver)
-- or-tools-wasm (TypeScript/WebAssembly) - Web browser port of Google ORTools - [website](https://www.npmjs.com/package/or-tools-wasm)
+- or-tools-wasm (TypeScript/WebAssembly) - Web package for running ORTools in browser and JavaScript runtimes - [website](https://www.npmjs.com/package/or-tools-wasm)
 
 ### High Level Modelling Languages 
 
